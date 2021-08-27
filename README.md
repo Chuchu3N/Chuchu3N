@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chuchu3N
-- 👀 I’m interested in ... learning as much as I can
+- 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
